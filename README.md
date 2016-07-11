@@ -1,9 +1,12 @@
-Sinatra
-=============
+A Sinatra Based Ruby app 
+========================
 
-Brought to you by Lighthouse Labs
+A simple Sinatra app built as midterm project at Lighthouse Labs. The app was built by a team of four:
+Richard Attfield, Ben Zheng, Natalia Moreno, and Max Ahn.
 
-## Getting Started
+The app is a simple "betting" app, allowing users to create accounts and to place "bets" on actual Major League baseball games using points.
+
+## To run the app, download or clone and:
 
 1. `bundle install`
 2. `shotgun -p 3000 -o 0.0.0.0`
